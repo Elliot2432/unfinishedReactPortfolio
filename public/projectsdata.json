@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Assuage Solutions",
+        "url": "",
+        "image": "../imgs/projects/Assuage-Solutions.png",
+        "description": "A fake E-Commerce Website using ExpressJS and Pug templating"
+    }
+
+
+
+]
